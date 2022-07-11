@@ -16,7 +16,7 @@ to improve users' experience. My carreer goal is to build and share my knowledge
 
 - 🌱 I’m currently learning **Javascript, React, Redu, Ruby, Rails**
 
-<img src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src ="https://res.cloudinary.com/practicaldev/image/fetch/s--cT4TSe48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/894znjv4oo9agqiz4dql.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarikbouari](https://github.com/tarikbouari)
 
