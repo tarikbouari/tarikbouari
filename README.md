@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tarik Bouari</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikbouari&label=Profile%20views&color=0e75b6&style=flat" alt="tarikbouari" /> </p>
+<p align="left"> 
+<img src="https://camo.githubusercontent.com/8a4ae3fb98faf74ddf78a6677ceaa6e8872f7f340f569b7c5e1aa9bcc4061d95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f76657273652d626c756576696f6c6574">
+<img src="https://komarev.com/ghpvc/?username=tarikbouari&label=Profile%20views&color=0e75b6&style=flat" alt="tarikbouari" /> 
+</p>
+
 <h3 >A passionate Fullstack developer from Ghana and currently a student at Microverse </h3>
 <p>I describe myself as a creative person that loves to merge things in order to get an awesome result. 
 I always like to make things perfect and I believe there is no limit to creativity.
@@ -14,7 +18,7 @@ to improve users' experience. My carreer goal is to build and share my knowledge
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarikbouari" alt="tarikbouari" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, React, Redu, Ruby, Rails**
+- 🌱 I’m currently learning **Javascript, React, Redux, Ruby, Rails**
 
 <img src ="https://res.cloudinary.com/practicaldev/image/fetch/s--cT4TSe48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/894znjv4oo9agqiz4dql.gif">
 
