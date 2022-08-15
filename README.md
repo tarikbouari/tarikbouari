@@ -15,9 +15,6 @@ developer, I love coding challenges and problems solving in order to build  effi
 to improve users' experience. My carreer goal is to build and share my knowledge around the world while working on open source project. </p>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarikbouari" alt="tarikbouari" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript, React, Redux, Ruby, Rails**
 
 <img src ="https://res.cloudinary.com/practicaldev/image/fetch/s--cT4TSe48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/894znjv4oo9agqiz4dql.gif">
