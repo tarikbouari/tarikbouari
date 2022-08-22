@@ -21,7 +21,7 @@ to improve users' experience. My carreer goal is to build and share my knowledge
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarikbouari](https://github.com/tarikbouari)
 
-- 💬 Ask me about **Javascript , React  ,Html , Css**
+- 💬 Ask me about **Javascript, React, Ruby and Rails **
 
 - 📫 How to reach me **tarikbouari@gmail.com**
 
