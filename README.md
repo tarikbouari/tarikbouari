@@ -13,15 +13,15 @@ I'm passionate about design and technology. As a software developer, I love codi
 
 - 🌱 I’m currently learning **Javascript, React, Redux, Ruby, Rails**
 
-<img src ="https://res.cloudinary.com/practicaldev/image/fetch/s--cT4TSe48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/894znjv4oo9agqiz4dql.gif">
-
 - 👨‍💻 All of my projects are available at [https://github.com/tarikbouari](https://github.com/tarikbouari)
 
 - 💬 Ask me about **Javascript, React, Ruby and Rails**
 
 - 📫 How to reach me **tarikbouari@gmail.com**
 
-- ⚡ Fun fact **I love video games,and Music**
+- ⚡ Fun fact **I love video games,and Music** <br>
+
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0244.gif" border="0" alt="animated-line-image-0244" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
