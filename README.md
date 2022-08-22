@@ -4,12 +4,13 @@
 <img src="https://komarev.com/ghpvc/?username=tarikbouari&label=Profile%20views&color=0e75b6&style=flat" alt="tarikbouari" /> 
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF35C500&width=449&lines=Available+for+hiring)](https://git.io/typing-svg)
+
 <h3 >A passionate full-stack developer ready for adventure.</h3>
 
 <p>I describe myself as a creative person that loves to merge things in order to get an awesome result. I always like to make things perfect and I believe there is no limit to creativity. “The true sign of intelligence is not knowledge, but imagination.” — Albert Einstein 
   
 I'm passionate about design and technology. As a software developer, I love coding challenges and problem-solving in order to build efficient web applications to improve users' experiences. My career goal is to share my knowledge around the world while working on open-source projects.</p>
-
 
 - 🌱 I’m currently learning **Javascript, React, Redux, Ruby, Rails**
 
@@ -20,8 +21,6 @@ I'm passionate about design and technology. As a software developer, I love codi
 - 📫 How to reach me **tarikbouari@gmail.com**
 
 - ⚡ Fun fact **I love video games,and Music** <br>
-
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0244.gif" border="0" alt="animated-line-image-0244" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
