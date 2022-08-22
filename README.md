@@ -11,7 +11,7 @@ I always like to make things perfect and I believe there is no limit to creativi
 “The true sign of intelligence is not knowledge, but imagination.”  — Albert Einstein
 
 I'm passionate about design and technology. As a software 
-developer, I love coding challenges and problems solving in order to build  efficient apps and websites 
+developer, I love coding challenges and problems solving in order to build web application
 to improve users' experience. My carreer goal is to build and share my knowledge around the world while working on open source project. </p>
 
 
