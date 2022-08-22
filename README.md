@@ -4,15 +4,11 @@
 <img src="https://komarev.com/ghpvc/?username=tarikbouari&label=Profile%20views&color=0e75b6&style=flat" alt="tarikbouari" /> 
 </p>
 
-<h3 >A passionate Fullstack developer from Ghana and currently a student at Microverse </h3>
-<p>I describe myself as a creative person that loves to merge things in order to get an awesome result. 
-I always like to make things perfect and I believe there is no limit to creativity.
+<h3 >A passionate full-stack developer ready for adventure.</h3>
 
-“The true sign of intelligence is not knowledge, but imagination.”  — Albert Einstein
-
-I'm passionate about design and technology. As a software 
-developer, I love coding challenges and problems solving in order to build web application
-to improve users' experience. My carreer goal is to build and share my knowledge around the world while working on open source project. </p>
+<p>I describe myself as a creative person that loves to merge things in order to get an awesome result. I always like to make things perfect and I believe there is no limit to creativity. “The true sign of intelligence is not knowledge, but imagination.” — Albert Einstein 
+  
+I'm passionate about design and technology. As a software developer, I love coding challenges and problem-solving in order to build efficient web applications to improve users' experiences. My career goal is to share my knowledge around the world while working on open-source projects.</p>
 
 
 - 🌱 I’m currently learning **Javascript, React, Redux, Ruby, Rails**
@@ -21,7 +17,7 @@ to improve users' experience. My carreer goal is to build and share my knowledge
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarikbouari](https://github.com/tarikbouari)
 
-- 💬 Ask me about **Javascript, React, Ruby and Rails **
+- 💬 Ask me about **Javascript, React, Ruby and Rails**
 
 - 📫 How to reach me **tarikbouari@gmail.com**
 
