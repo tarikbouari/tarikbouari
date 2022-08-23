@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=tarikbouari&label=Profile%20views&color=0e75b6&style=flat" alt="tarikbouari" /> 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF35C500&width=449&lines=Available+for+hiring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF35C500&width=449&lines=Available+for+hire)](https://git.io/typing-svg)
 
 <h3 >A passionate full-stack developer ready for adventure.</h3>
 
