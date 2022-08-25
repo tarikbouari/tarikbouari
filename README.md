@@ -12,7 +12,7 @@
   
 I'm passionate about design and technology. As a software developer, I love coding challenges and problem-solving in order to build efficient web applications to improve users' experiences. My career goal is to share my knowledge around the world while working on open-source projects.</p>
 
-- 🌱 I’m currently learning **Javascript, React, Redux, Ruby, Rails**
+- 🌱 I’m currently learning **JavaScript, React, Redux, Ruby, Rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarikbouari](https://github.com/tarikbouari)
 
