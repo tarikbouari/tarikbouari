@@ -10,7 +10,7 @@
 <hr width="100">
 
 <p> 
-I'm passionate about technology, remote work and diverse cross cultural collaboration. As a software developer, I love coding challenges and problem-solving in order to build efficient web applications to improve users' experiences. My career goal is to share my knowledge around the world while working on open-source projects.</p>
+I'm passionate about technology, remote work and diverse cross cultural collaboration. As a software developer, I love coding challenges and problem-solving in order to build efficient software to improve users' experiences. My career goal is to share my knowledge around the world while working on open-source projects.</p>
   <p>“The true sign of intelligence is not knowledge, but imagination.” — Albert Einstein</p>  
 
 - 🌱 I’m currently learning **JavaScript, React, Redux, Ruby, Rails**
