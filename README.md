@@ -6,11 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF35C500&width=449&lines=Available+for+hire)](https://git.io/typing-svg)
 
-<h3 >A passionate full-stack developer ready for adventure.</h3>
+<h3 >An international full-stack developer ready for adventure.</h3>
+<hr width="100">
 
-<p>I describe myself as a creative person that loves to merge things in order to get an awesome result. I always like to make things perfect and I believe there is no limit to creativity. “The true sign of intelligence is not knowledge, but imagination.” — Albert Einstein 
-  
-I'm passionate about design and technology. As a software developer, I love coding challenges and problem-solving in order to build efficient web applications to improve users' experiences. My career goal is to share my knowledge around the world while working on open-source projects.</p>
+<p> 
+I'm passionate about technology, remote work and diverse cross cultural collaboration. As a software developer, I love coding challenges and problem-solving in order to build efficient web applications to improve users' experiences. My career goal is to share my knowledge around the world while working on open-source projects.</p>
+  <p>“The true sign of intelligence is not knowledge, but imagination.” — Albert Einstein</p>  
 
 - 🌱 I’m currently learning **JavaScript, React, Redux, Ruby, Rails**
 
